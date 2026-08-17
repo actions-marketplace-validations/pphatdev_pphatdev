@@ -2,10 +2,15 @@ name: Daily README Update
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */3 * * *"
   push:
     branches:
       - main
+      - develop
+  pull_request:
+    branches:
+      - main
+      - develop
   workflow_dispatch:
     inputs:
       bar_style:
@@ -31,8 +36,6 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          ref: main
 
       - name: Update README stats
         id: update_stats
@@ -40,18 +43,36 @@ jobs:
         with:
           waka-token: ${{ secrets.WAKA_KEY }}
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          bar-style: ${{ github.event.inputs.bar_style || vars.BAR_STYLE || 'block' }}
+          bar-style: ${{ github.event.inputs.bar_style || 'block' }}
 
       - name: Commit and push changes
+        id: commit
         if: steps.update_stats.outputs.changed == 'true'
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore(readme): update daily stats, followers and blog posts"
-          file_pattern: "README.md data/coding_stats.json"
-          branch: main
+          file_pattern: "README.md data/ assets/"
+          commit_user_name: "github-actions[bot]"
+          commit_user_email: "github-actions[bot]@users.noreply.github.com"
 
+      - name: Notify Telegram on success
+        if: success()
+        uses: pphatdev/telegrambot-alert-action@v1.1-beta
+        with:
+          telegram-bot-token: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          telegram-chat-id: ${{ secrets.TELEGRAM_CHAT_ID }}
+          status: success
+          stage: Daily README Update
+          environment: production
+          extra: "<b>Repo:</b> ${{ github.repository }}\n<b>Trigger:</b> ${{ github.event_name }}\n<b>Changed:</b> ${{ steps.update_stats.outputs.changed || 'false' }}"
 
-
-
-
-
+      - name: Notify Telegram on failure
+        if: failure()
+        uses: pphatdev/telegrambot-alert-action@v1.1-beta
+        with:
+          telegram-bot-token: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          telegram-chat-id: ${{ secrets.TELEGRAM_CHAT_ID }}
+          status: failure
+          stage: Daily README Update
+          environment: production
+          extra: "<b>Repo:</b> ${{ github.repository }}\n<b>Run:</b> ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"

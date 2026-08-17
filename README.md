@@ -1,21 +1,18 @@
-<img align='middle' src="https://stats.pphat.top/stats?username=pphatdev&avatar_mode=radar&data_border_style=frame" style="width:100%"/>
+<img align='middle' src="assets/stats.svg" title="GitHub Stats" alt="PPhat - GitHub Stats" style="width:100%"/>
 
-</div>
 
 # <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="25" height="25" alt="rocket"/> Hi, Welcome back <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
 
 <div style="margin-top: 20px;">
 
-<img src="https://stats.pphat.top/badge/visitors?username=pphatdev&theme=ocean" alt="PPhat Profile Visitors"/>
+<!-- <img src="https://stats.pphat.top/badge/visitors?username=pphatdev&theme=ocean" alt="PPhat Profile Visitors"/>
 <img src="https://stats.pphat.top/badge/repositories?username=pphatdev&theme=neon" alt="PPhat Profile Repositories"/>
 <img src="https://stats.pphat.top/badge/languages?username=pphatdev&theme=inferno" alt="PPhat Profile Languages"/>
 <img src="https://stats.pphat.top/badge/followers?username=pphatdev&theme=matrix" alt="PPhat Profile Followers"/>
 <img src="https://stats.pphat.top/badge/total-stars?username=pphatdev&theme=solar" alt="PPhat Profile Total Stars"/>
-<img src="https://stats.pphat.top/badge/total-contributors?username=pphatdev&theme=galaxy" alt="PPhat Profile Total Contributors"/>
+<img src="https://stats.pphat.top/badge/total-contributors?username=pphatdev&theme=galaxy" alt="PPhat Profile Total Contributors"/> -->
 
-<br>
-
-<br>
+![](https://stats.pphat.top/badges?username=pphatdev&name=visitors,repositories,languages,followers,total-stars,total-contributors&theme=ocean,neon,inferno,matrix,solar,galaxy&padding=10&size=medium)
 
 _កម្មករសរសេរកូដ_ 😂 _(Vibe Coder • Vibe Designer)_
 
@@ -32,7 +29,7 @@ I am a Senior Front-End Developer at _TURBOTECH CO,.LTD_ also as a Open Source _
 <br>
 <div>
 
-![Tech Stack](https://stats.pphat.top/icons?name=typescript,javascript,nodedotjs,nextjs,nuxt,shadcnui,postgresql,drizzle,tailwindcss,laravel,csharp&columns=12&size=small&effect=wave)
+<img src="assets/icons.svg" title="PPhat - Tech Stack" alt="PPhat - Tech Stack"/>
 
 </div>
 
@@ -42,20 +39,14 @@ I am a Senior Front-End Developer at _TURBOTECH CO,.LTD_ also as a Open Source _
 
 <!--START_SECTION:daily-->
 ```diff
-███████░░░░░░░░░░░░░░░░░░ ⁝ 28.29% • Markdown
-█████░░░░░░░░░░░░░░░░░░░░ ⁝ 19.48% • TypeScript
-█████░░░░░░░░░░░░░░░░░░░░ ⁝ 19.37% • Python
-███░░░░░░░░░░░░░░░░░░░░░░ ⁝ 12.14% • JSON
-███░░░░░░░░░░░░░░░░░░░░░░ ⁝ 11.88% • Bash
-█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 2.38% • Roff
-█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 2.13% • Image (svg)
-░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 1.9% • Text
-░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 1.81% • INI
-░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.24% • YAML
-░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.23% • Git Config
-░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.14% • JavaScript
-░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.01% • PowerShell
-░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.01% • TSConfig
+████████░░░░░░░░░░░░░░░░░ ⁝ 31.05% • JavaScript
+██████░░░░░░░░░░░░░░░░░░░ ⁝ 24.79% • TypeScript
+████░░░░░░░░░░░░░░░░░░░░░ ⁝ 16.96% • Markdown
+████░░░░░░░░░░░░░░░░░░░░░ ⁝ 14.55% • JSON
+██░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 6.38% • Git Config
+██░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 6.2% • Other
+░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.04% • TSConfig
+░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.03% • PHP
 ```
 <!--END_SECTION:daily-->
 
@@ -63,36 +54,31 @@ I am a Senior Front-End Developer at _TURBOTECH CO,.LTD_ also as a Open Source _
 
 ## 🌟 Daily commitment
 
-<img align='middle' src="https://stats.pphat.top/graph?username=pphatdev&show_background=true&animate=pulse&size=small&show_title=false&show_total_contribution=false" width="100%" alt="GitHub Stats"/>
+<img align='middle' src="assets/graph.svg" width="100%" title="PPhat - Daily Commitment" alt="PPhat - Daily Commitment"/>
 
 <br>
 
-## ✨ Recent friends
+## 🧪 Most coding language 
+
+<img align='middle' src="assets/languages.svg" width="100%" title="PPhat - Coding Language" alt="PPhat - Coding Language"/>
+
+
+
+## ✨ Hello new friends
 
 <div>
 <!--START_SECTION:followers-->
-<a href="https://github.com/phanithphan"><img src="https://avatars.githubusercontent.com/u/263699332?s=130&v=4" width="60" height="60" alt="phanithphan" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
-<a href="https://github.com/hexarch"><img src="https://avatars.githubusercontent.com/u/67343604?s=130&v=4" width="60" height="60" alt="hexarch" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
-<a href="https://github.com/AVENOIR-REVERIE"><img src="https://avatars.githubusercontent.com/u/208582167?s=130&v=4" width="60" height="60" alt="AVENOIR-REVERIE" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
-<a href="https://github.com/JohnMwendwa"><img src="https://avatars.githubusercontent.com/u/72663882?s=130&v=4" width="60" height="60" alt="JohnMwendwa" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
-<a href="https://github.com/ishandutta2007"><img src="https://avatars.githubusercontent.com/u/2527354?s=130&v=4" width="60" height="60" alt="ishandutta2007" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
-<a href="https://github.com/youngkimtesting12345"><img src="https://avatars.githubusercontent.com/u/261312078?s=130&v=4" width="60" height="60" alt="youngkimtesting12345" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
-<a href="https://github.com/prime-autobot"><img src="https://avatars.githubusercontent.com/u/224136678?s=130&v=4" width="60" height="60" alt="prime-autobot" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
-<a href="https://github.com/kanangmin76-sudo"><img src="https://avatars.githubusercontent.com/u/239620752?s=130&v=4" width="60" height="60" alt="kanangmin76-sudo" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
+
+- [vitou18](https://github.com/vitou18)
+- [the-d3fender](https://github.com/the-d3fender)
+- [Chhoranndorn](https://github.com/Chhoranndorn)
+- [RongMarin99](https://github.com/RongMarin99)
+- [chrisipanaque](https://github.com/chrisipanaque)
+- [ahmadrizal-baihaqi](https://github.com/ahmadrizal-baihaqi)
+- [duncuo164](https://github.com/duncuo164)
+- [cachewraith](https://github.com/cachewraith)
 <!--END_SECTION:followers-->
 </div>
 
-
-## 🚀 Recent Blogs
-
-<!--START_SECTION:blogs-->
-<a href="https://pphat.me/posts/07-03-2026-kampot" style="width: 200px;">
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.api.pphat.stackdev.cloud/api/image/assets/2026-03-11_3db1720c-53db-4351-b122-0e3863e3bfbf.webp?fm=webp&q=80&w=200&fit=cover">
-    <img src="https://cdn.api.pphat.stackdev.cloud/api/image/assets/2026-03-11_3db1720c-53db-4351-b122-0e3863e3bfbf.webp?fm=webp&q=80&w=200&fit=cover" alt="ហ្នឹងមែនៗ កំពត!! 😂" title="ហ្នឹងមែនៗ កំពត!! 😂">
-    </picture>
-    <p>ហ្នឹងមែនៗ កំពត!! 😂</p>
-</a>
-<!--END_SECTION:blogs-->
-
 <br>
+
