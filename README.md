@@ -14,7 +14,7 @@
 
 ![](https://stats.pphat.top/badges?username=pphatdev&name=visitors,repositories,languages,followers,total-stars,total-contributors&theme=ocean,neon,inferno,matrix,solar,galaxy&padding=10&size=medium)
 
-_កម្មករសរសេរកូដ_ 😂 _(Vibe Coder • Vibe Designer)_
+<!-- _កម្មករសរសេរកូដ_ 😂 _(Vibe Coder • Vibe Designer)_ -->
 
 I am a Senior Front-End Developer at _TURBOTECH CO,.LTD_ also as a Open Source _Vibe (Coder/Designer)_ with a huge love for Node.js, Next.js, Nuxt.js, PostgreSQL, REST API and Data Visualization.
 
@@ -39,14 +39,17 @@ I am a Senior Front-End Developer at _TURBOTECH CO,.LTD_ also as a Open Source _
 
 <!--START_SECTION:daily-->
 ```diff
-██████████████░░░░░░░░░░░ ⁝ 55.15% • Markdown
-████░░░░░░░░░░░░░░░░░░░░░ ⁝ 16.07% • Python
-████░░░░░░░░░░░░░░░░░░░░░ ⁝ 15.7% • JavaScript
-█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 5.88% • Image (svg)
-█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 3.77% • JSON
-░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 1.96% • Text
-░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 1.45% • Other
-░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.01% • HTML
+█████████░░░░░░░░░░░░░░░░ ⁝ 36.16% • TypeScript
+██████░░░░░░░░░░░░░░░░░░░ ⁝ 25.94% • JavaScript
+██░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 9.53% • PHP
+██░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 6.87% • Markdown
+██░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 6.41% • Other
+█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 5.47% • JSON
+█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 4.85% • Git Config
+█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 3.38% • Blade Template
+░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.95% • TSConfig
+░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.4% • Python
+░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.03% • CSS
 ```
 <!--END_SECTION:daily-->
 
