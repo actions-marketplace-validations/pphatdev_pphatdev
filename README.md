@@ -39,14 +39,14 @@ I am a Senior Front-End Developer at _TURBOTECH CO,.LTD_ also as a Open Source _
 
 <!--START_SECTION:daily-->
 ```diff
-███████████░░░░░░░░░░░░░░ ⁝ 45.27% • JavaScript
-██████░░░░░░░░░░░░░░░░░░░ ⁝ 25.64% • Markdown
-█████░░░░░░░░░░░░░░░░░░░░ ⁝ 21.95% • TypeScript
-█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 5.33% • JSON
-░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 1.45% • Blade Template
-░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.29% • YAML
-░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.05% • PHP
-░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.0% • TSConfig
+███████████░░░░░░░░░░░░░░ ⁝ 43.15% • TypeScript
+██████████░░░░░░░░░░░░░░░ ⁝ 38.53% • JavaScript
+██░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 7.3% • JSON
+██░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 6.42% • PHP
+█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 3.04% • Blade Template
+░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.89% • CSS
+░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.56% • Other
+░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.11% • Bash
 ```
 <!--END_SECTION:daily-->
 
@@ -70,13 +70,13 @@ I am a Senior Front-End Developer at _TURBOTECH CO,.LTD_ also as a Open Source _
 <!--START_SECTION:followers-->
 
 - [parmarhit50-coder](https://github.com/parmarhit50-coder)
+- [Sopheak-HUN](https://github.com/Sopheak-HUN)
 - [vitou18](https://github.com/vitou18)
 - [the-d3fender](https://github.com/the-d3fender)
 - [Chhoranndorn](https://github.com/Chhoranndorn)
 - [RongMarin99](https://github.com/RongMarin99)
 - [ahmadrizal-baihaqi](https://github.com/ahmadrizal-baihaqi)
 - [duncuo164](https://github.com/duncuo164)
-- [cachewraith](https://github.com/cachewraith)
 <!--END_SECTION:followers-->
 </div>
 
